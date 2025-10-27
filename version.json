@@ -1,4 +1,4 @@
 {
-  "version": "2.2",
-  "changelog": "Редизайн"
+  "version": "2.2.1",
+  "changelog": "Добавление автопроверки графиков Zabbix"
 }
